@@ -1,9 +1,14 @@
 # Week X: [Topic Name]
 # Date: [Date]
 # Key Concepts
-List of important concepts covered in the lecture.
-Concept 1
-Concept 2
+# F: Fork
+Fork the repo
+# A: Action
+Action tab in repositories for tests
+# C: Clone 
+Clone repo to your IDE
+# B: Branch
+New Branch 
 ...
 # Code Snippets
 Include relevant code snippets discussed in the lecture.
